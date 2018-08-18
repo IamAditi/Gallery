@@ -1,0 +1,29 @@
+.gall-bg{
+    background-color: #dfdada;
+}
+.gall-text-left{
+    text-align: left !important;
+}
+.gall-text-right{
+    text-align: right !important;
+}
+.gall-text-center{
+    text-align: center !important;
+}
+.gall-no-flex .mat-figure {
+    display: initial !important;
+}
+.mat-slider-horizontal{
+    width: 20%;
+}
+.mat-grid-tile{
+    border-radius: 5px;
+}
+.mat-accent .mat-slider-track-fill {
+    background-color: white;
+}
+.mat-stroked-button {
+    background-color: white;
+    border: 0px !important;
+    color: #ff4081 !important;
+}
